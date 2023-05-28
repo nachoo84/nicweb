@@ -18,7 +18,7 @@ body {
     justify-content: space-around;
     align-items: center;
     background-color: blueviolet;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 ul a {
     color: white;
