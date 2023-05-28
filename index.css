@@ -1,4 +1,14 @@
 body {
-    background-image: url(./imagenes/fondo.jpg);
-    background-repeat: repeat;
+    background-color: black;
+    color: white;
+}
+
+.menu{ 
+    color: white;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.cajamenu {
+    background-color: aqua;
 }
