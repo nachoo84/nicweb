@@ -3,9 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
 img {
-    width: 50px;
-    height: 50px;
+    width: 55px;
+    height: 55px;
 }
 body {
     background-color: black;
@@ -17,7 +19,8 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(59, 9, 105);
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(63,6,195,1) 100%);
     padding: 0.5rem;
 }
 ul a {
